@@ -1,12 +1,16 @@
-# pensamento-computacional
 <!DOCTYPE html>
 <html lang="pt-br">
 	<head>
-        <meta charset="UTF-8">
+		<title>As Siamesas</title>
+        <meta charset="utf-8">
+     
+    <style>
+        </style>
 
-		<title>Siamesas</title>
-	</head>
+    </head>
 	<body>
-		<h1>As siamesas</h1>
-	</body>
+	nossa empresa é pasta e escova de dente, tudo que uma pessoa precisa, sem sua 	
+	</body> 
+
+
 </html>
